@@ -11,6 +11,6 @@ records.
 - The central tendency of the price of BTC was analyzed, determining that we were dealing with a
 symmetrical distribution.
 - The distribution was plotted, using both Maltplotlib and Seaborn.
-- Analyzed the relationship between the price and volume of Bitcoin. Concluded the there was a very weak, almost inexistent, linear relationship between the variables, mainly due to a very small absolute correlation coefficient.
+- Analyzed the relationship between the price and volume of Bitcoin. Concluded that there was a very weak, almost inexistent, linear relationship between the variables, mainly due to a very small absolute correlation coefficient.
 - An analytical analysis of invalid values was conducted. The InterQuartile Range was utilized, due to its
 reduced sensitiveness to outliers. 
