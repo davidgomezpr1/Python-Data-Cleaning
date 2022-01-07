@@ -1,5 +1,5 @@
 # [Project 1: Data Cleaning of 2021 Bitcoin Data](https://github.com/davidgomezpr1/Python_Data_Cleaning/blob/main/2021%20BTC%20Price%20Analysis)
-![](https://thumbs.dreamstime.com/b/fluctuating-course-bitcoin-highest-capped-cryptocurrency-symbols-exchange-rates-154494448.jpg)
+![](https://images.unsplash.com/photo-1609726494499-27d3e942456c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80)
 
 ## Overview
 
