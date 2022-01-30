@@ -1,7 +1,7 @@
-# Project 1: Data Cleaning of 2021 Bitcoin Data.
+# Data Cleaning of 2021 Bitcoin Data
 ![](https://images.unsplash.com/photo-1609726494499-27d3e942456c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80)
 
-## Business Request
+## Motivation
 
 As a long-term investor wishing to grow my investment portfolio by investing into the cryptocurrency market. I decided to analyze the relationship between the price and the daily amount of coins traded, also known as trading volume, of the "crypto" gold, Bitcoin.  
 
